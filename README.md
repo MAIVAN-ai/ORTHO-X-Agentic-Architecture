@@ -1,7 +1,7 @@
 # The ORTHO-X Multi-Agent Architecture
 
 **Designing safe, interoperable and human-governed multi-agent systems for orthopaedic care**
-as described here:
+>  — as described here:
 **ORTHO-X : From AI Assistants to Agentic Orthopaedics**
 https://maivan.ai/ortho-x-from-ai-assistants-to-agentic-orthopaedics/
 
